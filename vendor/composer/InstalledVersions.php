@@ -27,24 +27,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'lucas/router',
+    'reference' => '4887239e7796f0896e4ef0866c0629254e758377',
+    'name' => 'htdocs/matics2',
   ),
   'versions' => 
   array (
-    'lucas/router' => 
+    'htdocs/matics2' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '4887239e7796f0896e4ef0866c0629254e758377',
     ),
   ),
 );

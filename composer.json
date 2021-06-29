@@ -1,5 +1,5 @@
 {
-    "name":"lucas/router",
+    "name":"htdocs/matics2",
     "autoload":{
         "psr-4":{
             "Source\\":"source/"
@@ -8,5 +8,9 @@
         },
         "require": {
      
-        }
+        },
+        "files":[
+            "source/Config.php",
+            "source/Helpers.php"
+        ]
     }
